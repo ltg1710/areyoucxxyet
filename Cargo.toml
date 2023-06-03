@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "tutorial/crates/hello-sys",
+    "tutorial/hello-from-cpp",
+    "tutorial/pingpong",
+]
