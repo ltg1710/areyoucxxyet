@@ -13,6 +13,10 @@ Cargo.lock
 # MSVC Windows builds of rustc generate these, which store debugging information
 *.pdb
 
+# cmake's build directory
+build/
+
+*.lib
 
 # Added by cargo
 

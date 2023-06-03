@@ -3,4 +3,5 @@ members = [
     "tutorial/crates/hello-sys",
     "tutorial/hello-from-cpp",
     "tutorial/pingpong",
+    "tutorial/hello-from-rust/rust-hello",
 ]
