@@ -18,9 +18,9 @@ flowchart LR
     end
     hellolib --> hello-sys
     hello-sys --> hello-from-cpp
-    click hellolib "tutorial\crates\hello-sys\hellolib" _blank
-    click hello-sys "tutorial\crates\hello-sys" _blank
-    click hello-from-cpp "tutorial\hello-from-cpp" _blank
+    click hellolib "https://github.com/ltg1710/areyoucxxyet/tutorial\crates\hello-sys\hellolib" _blank
+    click hello-sys "https://github.com/ltg1710/areyoucxxyet/tutorial\crates\hello-sys" _blank
+    click hello-from-cpp "https://github.com/ltg1710/areyoucxxyet/tutorial\hello-from-cpp" _blank
 ``` 
 
 ## 2 PingPong
@@ -40,7 +40,7 @@ flowchart LR
     app --> ping
     ping --> pong
     pong --> ping
-    click ping "tutorial/pingpong/src/ping.cc" _blank
-    click pong "tutorial/pingpong/src/main.rs#L13-L18" _blank
-    click pingpong "tutorial/pingpong/src/main.rs#L20-L22" _blank
+    click ping "https://github.com/ltg1710/areyoucxxyet/tutorial/pingpong/src/ping.cc" _blank
+    click pong "https://github.com/ltg1710/areyoucxxyet/tutorial/pingpong/src/main.rs#L13-L18" _blank
+    click pingpong "https://github.com/ltg1710/areyoucxxyet/tutorial/pingpong/src/main.rs#L20-L22" _blank
 ```
